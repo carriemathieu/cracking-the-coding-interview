@@ -5,7 +5,7 @@
 
 ### **Frequency Counters** ###
 *uses objects or sets to collect values/frequencies of values*  
-<span style="color:gray"> sidenote: using objects to store values (*O(n)*) can help avoid need for nested loops (*O(n^2)*) </span> 
+> sidenote: using objects to store values (*O(n)*) can help avoid need for nested loops (*O(n^2)*) 
   
 EXAMPLE PROBLEMS:  
 Write a funciton called "same", which accepts two arrays. The function should return true if every value in the array has it's corresponding value squared in the second array. The frequency must be the same.  
