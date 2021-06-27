@@ -1,0 +1,1 @@
+// given an array, return highest pairwise function
