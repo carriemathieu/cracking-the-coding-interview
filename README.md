@@ -1,1 +1,1 @@
-# cracking-the-coding-interview
+# Javascript Algos
