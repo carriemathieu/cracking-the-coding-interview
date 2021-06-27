@@ -1,1 +1,0 @@
-# Common Problem Solving Patterns #
